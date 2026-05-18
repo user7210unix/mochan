@@ -17,13 +17,6 @@ A lightweight, single-file, read-only 4chan browser optimized for mobile devices
 - **Hide posts** with optional stubs
 - Fully functional without installation — just open the HTML file
 
-## How to Use
-
-1. Download `index.html`
-2. Open it in your browser (Chrome/Firefox recommended)
-3. Browse boards, open threads, view images
-4. Use the sidebar (☰) for settings and quick boards
-
 > **Note**: This is a client-side only app that uses public proxies to fetch data from 4chan.
 
 ## Technical Details
